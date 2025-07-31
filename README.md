@@ -69,9 +69,7 @@ BookingPulse/
 ├── BookingPulse_Hotel_Booking_Cancellation_&_Revenue_Optimization.ipynb
 ├── README.md
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -83,13 +81,3 @@ Edit
 
 ---
 
-## 🤝 Let's Connect!
-
-If you found this helpful or are looking for collaboration opportunities:
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- ✉️ ashritkvs@gmail.com
-
----
-
-⭐ Star the repo if you like it!
